@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dream-ipl/static/css/main.91e673c7.chunk.css",
+    "main.js": "/dream-ipl/static/js/main.e84d11ee.chunk.js",
+    "main.js.map": "/dream-ipl/static/js/main.e84d11ee.chunk.js.map",
+    "runtime-main.js": "/dream-ipl/static/js/runtime-main.c5d9c95e.js",
+    "runtime-main.js.map": "/dream-ipl/static/js/runtime-main.c5d9c95e.js.map",
+    "static/js/2.9b656560.chunk.js": "/dream-ipl/static/js/2.9b656560.chunk.js",
+    "static/js/2.9b656560.chunk.js.map": "/dream-ipl/static/js/2.9b656560.chunk.js.map",
+    "static/js/3.c12f8058.chunk.js": "/dream-ipl/static/js/3.c12f8058.chunk.js",
+    "static/js/3.c12f8058.chunk.js.map": "/dream-ipl/static/js/3.c12f8058.chunk.js.map",
+    "index.html": "/dream-ipl/index.html",
+    "static/css/main.91e673c7.chunk.css.map": "/dream-ipl/static/css/main.91e673c7.chunk.css.map",
+    "static/js/2.9b656560.chunk.js.LICENSE.txt": "/dream-ipl/static/js/2.9b656560.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5d9c95e.js",
+    "static/js/2.9b656560.chunk.js",
+    "static/css/main.91e673c7.chunk.css",
+    "static/js/main.e84d11ee.chunk.js"
+  ]
+}
